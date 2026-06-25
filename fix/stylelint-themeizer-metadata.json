@@ -1,0 +1,6 @@
+{
+  "repository": "git+https://github.com/stylelint/stylelint-themeizer.git",
+  "bugs": {
+    "url": "https://github.com/stylelint-themeizer/issues"
+  }
+}
