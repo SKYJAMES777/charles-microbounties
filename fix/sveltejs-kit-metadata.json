@@ -1,0 +1,6 @@
+{
+  "repository": "git+https://github.com/sveltejs/kit.git",
+  "bugs": {
+    "url": "https://github.com/sveltejs/kit/issues"
+  }
+}
