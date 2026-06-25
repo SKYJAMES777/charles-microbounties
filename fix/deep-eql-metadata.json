@@ -1,0 +1,6 @@
+{
+  "repository": "git+https://github.com/chaijs/deep-eql.git",
+  "bugs": {
+    "url": "https://github.com/deep-eql/issues"
+  }
+}
